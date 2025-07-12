@@ -108,6 +108,23 @@ El sistema genera automáticamente un archivo `correo_generado.html` con una vis
 
 ┗ 📄 correo_generado.html // Se genera al enviar el correo
 
+---
+
+## 🎥 Video de demostración
+
+Si deseas ver cómo importar correctamente la librería `correoElectronico.jar` a tu proyecto de implementación en Java (NetBeans), puedes mirar este video paso a paso:
+
+▶️ **[Ver video en YouTube](https://youtu.be/e3gLUt7NtWQ?si=8WPDUrVqXBo4Muij)**
+
+Este video te guía para:
+
+- Agregar el `.jar` al classpath del proyecto
+- Usar la clase `correo` sin errores de compilación
+- Ver un ejemplo de ejecución funcional
+
+📌 Recomendado si estás integrando la librería en un proyecto externo o académico.
+
+---
 
 ## 🚀 Instrucciones para ejecutar
 
