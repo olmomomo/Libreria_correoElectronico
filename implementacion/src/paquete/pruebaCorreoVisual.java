@@ -15,14 +15,14 @@ import javax.swing.JOptionPane;
  *
  * @author ayele
  */
-public class pruebaCorreoVisual extends javax.swing.JFrame {
+public class PruebaCorreoVisual extends javax.swing.JFrame {
 
     private DefaultListModel<File> modeloArchivos = new DefaultListModel<>();
     private JList<File> listaArchivos;
     /**
      * Creates new form pruebaCorreoVisual
      */
-    public pruebaCorreoVisual() {
+    public PruebaCorreoVisual() {
         initComponents();
         setTitle("Enviar Correo - Prueba librería - EQUIPO 2");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
