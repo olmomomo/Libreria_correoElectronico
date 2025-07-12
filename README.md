@@ -89,9 +89,9 @@ Así se ve el correo en la bandeja de entrada, con imágenes incrustadas y archi
 
 ---
 
-### 7. Ejemplo del archivo HTML generado
+### 7. Archivo HTML generado
 
-El sistema genera automáticamente un archivo `correo_generado.html` con una vista previa del mensaje enviado:
+El sistema genera automáticamente un archivo `correo_generado.html` con una vista previa del mensaje enviado.
 
 
 ---
@@ -100,11 +100,11 @@ El sistema genera automáticamente un archivo `correo_generado.html` con una vis
 
 📦 proyecto-correo
 
-┣ 📄 correo.java // Lógica de envío del correo
+┣ 📄 Correo.java // Lógica de envío del correo
 
-┣ 📄 pruebaCorreoVisual.java // Interfaz gráfica para llenar los campos
+┣ 📄 PruebaCorreoVisual.java // Interfaz gráfica para llenar los campos
 
-┣ 📄pruebaCorreo.java // con método main para ejecutar una prueba sin manera visual
+┣ 📄PruebaCorreo.java // con método main para ejecutar una prueba sin manera visual
 
 ┗ 📄 correo_generado.html // Se genera al enviar el correo
 
