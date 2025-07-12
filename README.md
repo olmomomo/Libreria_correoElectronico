@@ -55,7 +55,7 @@ Al ejecutar la clase `PruebaCorreoVisual`, se muestra una ventana donde puedes l
 
 Puedes adjuntar imágenes, PDFs u otros archivos. Los archivos seleccionados se muestran en una lista:
 
-![Llenado de campos y selección de archivos]((https://i.ibb.co/NgYY2nqM/elegir-archivo.png)
+![Llenado de campos y selección de archivos](https://i.ibb.co/wZ66hrqf/elegir-archivo.png)
 
 ---
 
