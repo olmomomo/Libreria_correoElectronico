@@ -4,7 +4,7 @@
  */
 package pruebacorreo;
 
-import elementos.correo;
+import elementos.Correo;
 
 /**
  *
@@ -18,13 +18,13 @@ public class PruebaCorreo {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        correo miCorreo = new correo();
+        Correo miCorreo = new Correo();
 
     // ✅ Cambia estos datos por los tuyos
     String remitente = "olmosayelen3@gmail.com"; // Tu correo real
     String contraseña = "ykuo wdxk pxlj ssml"; // Contraseña de aplicación (NO la normal)
     String destinatario = "topicosAFI@gmail.com"; // A quién va dirigido
-    String rutaArchivo = "C:/Users/ayele/Downloads/diplomas Gisela .pdf";
+    String rutaArchivo = "C:\\Users\\ayele\\Downloads\\curp atzlyn .pdf";
 
     String rutaHTML = "correo_generado.html";
 
