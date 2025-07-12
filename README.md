@@ -126,6 +126,13 @@ El sistema genera automáticamente un archivo `correo_generado.html` con una vis
 
 ---
 
+## 🌐 Documentación JavaDoc en línea
+
+📄 Puedes consultar la documentación completa generada con JavaDoc en:  
+👉 **[https://olmomomo.github.io/Libreria_correoElectronico/](https://olmomomo.github.io/Libreria_correoElectronico/)**
+
+---
+
 ## 📌 Notas importantes
 
 - ⚠️ **No funciona con Hotmail/Outlook**, ya que Microsoft bloquea la autenticación básica. Usa cuentas Gmail o Zoho con contraseña de aplicación.
@@ -137,7 +144,9 @@ El sistema genera automáticamente un archivo `correo_generado.html` con una vis
 ## Autor
 
 **Ittay Ayelen Olmos Reyes**
+
 **Flor Estephany Bustamante Rios**
+
 Proyecto con fines académicos y educativos.
 
 ---
