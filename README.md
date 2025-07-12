@@ -31,7 +31,7 @@ Este proyecto permite enviar correos electrónicos desde una aplicación Java co
 ---
 🔽 **Ejemplo de cómo se ve la configuración del proyecto con librerías:**
 
-![Librerías añadidas al proyecto](https://ibb.co/8gd1sq0C)
+![Librerías añadidas al proyecto](https://i.ibb.co/XfLNjVwJ/librerias-necesarias.png)
 
 ---
 
@@ -47,7 +47,7 @@ Al ejecutar la clase `PruebaCorreoVisual`, se muestra una ventana donde puedes l
 - Asunto y mensaje
 - Adjuntar uno o varios archivos
 
-![Interfaz principal](https://ibb.co/MY6N5Bt)
+![Interfaz principal](https://i.ibb.co/qFCXJQjn/interfaz-principal.png)
 
 ---
 
@@ -55,7 +55,7 @@ Al ejecutar la clase `PruebaCorreoVisual`, se muestra una ventana donde puedes l
 
 Puedes adjuntar imágenes, PDFs u otros archivos. Los archivos seleccionados se muestran en una lista:
 
-![Llenado de campos y selección de archivos](https://ibb.co/rGX3fLHz)
+![Llenado de campos y selección de archivos]((https://i.ibb.co/NgYY2nqM/elegir-archivo.png)
 
 ---
 
@@ -63,7 +63,6 @@ Puedes adjuntar imágenes, PDFs u otros archivos. Los archivos seleccionados se 
 
 Los archivos seleccionados se muestran en pantalla y están listos para enviarse:
 
-![Archivos añadidos](https://ibb.co/39XR0gS9)
 
 ---
 
@@ -71,7 +70,6 @@ Los archivos seleccionados se muestran en pantalla y están listos para enviarse
 
 Haz clic en el botón “Enviar Correo” para enviar el mensaje:
 
-![Botón de envío](https://ibb.co/mFFYR11g)
 
 ---
 
@@ -79,7 +77,7 @@ Haz clic en el botón “Enviar Correo” para enviar el mensaje:
 
 Si todo es correcto, verás un mensaje de confirmación:
 
-![Confirmación de envío](https://ibb.co/2YY9Pr3k)
+![Confirmación de envío](https://i.ibb.co/KzzP7gxr/notificacion-de-correo-enviado.png)
 
 ---
 
@@ -87,7 +85,7 @@ Si todo es correcto, verás un mensaje de confirmación:
 
 Así se ve el correo en la bandeja de entrada, con imágenes incrustadas y archivos adjuntos:
 
-![Correo recibido en Gmail](https://ibb.co/PZ0J4Fmb)
+![Correo recibido en Gmail](https://i.ibb.co/WppdHqqj/prueba-de-que-el-correo-se-envia.png)
 
 ---
 
@@ -95,7 +93,6 @@ Así se ve el correo en la bandeja de entrada, con imágenes incrustadas y archi
 
 El sistema genera automáticamente un archivo `correo_generado.html` con una vista previa del mensaje enviado:
 
-![Archivo HTML generado](https://ibb.co/mrT1bSxz)
 
 ---
 
