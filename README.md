@@ -153,6 +153,9 @@ Este video te guía para:
 ## 📌 Notas importantes
 
 - ⚠️ **No funciona con Hotmail/Outlook**, ya que Microsoft bloquea la autenticación básica. Usa cuentas Gmail o Zoho con contraseña de aplicación.
+- Es necesario tener las tres librerias externas, sino no puede funcionar el jar de correo electrónico.
+- Asegúrate de cambiar el correo electrónico y la contraseña de aplicación para generar un nuevo jar funcional, para que te envie los correos.
+- No olvides crear en Gmail la contraseña de aplicación.
 - Asegúrate de que los archivos adjuntos existan y no estén en uso por otro programa.
 - Puedes agregar mejoras visuales como barra de progreso o íconos fácilmente con Swing.
 
